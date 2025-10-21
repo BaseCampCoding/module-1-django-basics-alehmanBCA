@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class AnotherPokedexConfig(AppConfig):
+class YetAnotherPokedexConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'another_pokedex'
+    name = 'yet_another_pokedex'
